@@ -20,7 +20,7 @@ This project uses deep learning to recognize food items from images and estimate
 
 - **Source**: [Food-101 by Lukas Bossard](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)
 - **Contains**:
-  - 101 food categories
+  - 101 food categories used 10 categories in this project.
   - 1000 images per category (750 for training, 250 for testing)
 - **Used From**: Kaggle dataset [dansbecker/food-101](https://www.kaggle.com/datasets/dansbecker/food-101)
 
